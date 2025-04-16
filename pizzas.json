@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Маргарита",
+    "description": "Классическая пицца с томатным соусом и моцареллой",
+    "price": 25000,
+    "image": "img/pizza.png",
+    "category": "Мясные"
+  },
+  {
+    "id": 2,
+    "name": "Вегетарианская",
+    "description": "Пицца с овощами",
+    "price": 23000,
+    "image": "img/pizza1.png",
+    "category": "Вегетарианская"
+  },
+  {
+    "id": 3,
+    "name": "Гриль",
+    "description": "Пицца с курицей гриль",
+    "price": 27000,
+    "image": "img/pizza2.png",
+    "category": "Гриль"
+  },
+  {
+    "id": 4,
+    "name": "Острая пицца",
+    "description": "Пицца с острыми перцами и соусом чили",
+    "price": 29000,
+    "image": "img/pizza3.png",
+    "category": "Острые"
+  },
+  {
+    "id": 5,
+    "name": "Закрытая пицца",
+    "description": "Пицца с начинкой внутри теста, как пирог",
+    "price": 31000,
+    "image": "img/pizza.png",
+    "category": "Закрытые"
+  },
+  {
+    "id": 6,
+    "name": "Пепперони",
+    "description": "Пицца с пикантной колбасой пепперони",
+    "price": 29000,
+    "image": "img/pizza3.png",
+    "category": "Мясные"
+  },
+  {
+    "id": 7,
+    "name": "Четыре сыра",
+    "description": "Пицца с моцареллой, пармезаном, горгонзолой и рикоттой",
+    "price": 31000,
+    "image": "img/pizza2.png",
+    "category": "Мясные"
+  },
+  {
+    "id": 8,
+    "name": "Карбонара",
+    "description": "Пицца с беконом, яйцом и сыром",
+    "price": 30000,
+    "image": "img/pizza1.png",
+    "category": "Мясные"
+  },
+  {
+    "id": 9,
+    "name": "Маринара",
+    "description": "Пицца с томатным соусом, чесноком и оливками",
+    "price": 22000,
+    "image": "img/pizza3.png",
+    "category": "Мясные"
+  },
+  {
+    "id": 10,
+    "name": "Цезарь",
+    "description": "Пицца с курицей, салатом и соусом цезарь",
+    "price": 28000,
+    "image": "img/pizza.png",
+    "category": "Гриль"
+  },
+  {
+    "id": 11,
+    "name": "Суперострая",
+    "description": "Пицца с перцем халапеньо и острым соусом",
+    "price": 33000,
+    "image": "img/pizza1.png",
+    "category": "Острые"
+  },
+  {
+    "id": 12,
+    "name": "Гавайская",
+    "description": "Пицца с ананасами и ветчиной",
+    "price": 25000,
+    "image": "img/pizza2.png",
+    "category": "Мясные"
+  },
+  {
+    "id": 13,
+    "name": "Болоньезе",
+    "description": "Пицца с мясом по-болонски и моцареллой",
+    "price": 29000,
+    "image": "img/pizza1.png",
+    "category": "Мясные"
+  },
+  {
+    "id": 14,
+    "name": "Рустика",
+    "description": "Пицца с колбасой, сыром и зеленью",
+    "price": 27000,
+    "image": "img/pizza3.png",
+    "category": "Мясные"
+  },
+  {
+    "id": 15,
+    "name": "Салями",
+    "description": "Пицца с колбасой салями и помидорами",
+    "price": 25000,
+    "image": "img/pizza.png",
+    "category": "Мясные"
+  },
+  {
+    "id": 16,
+    "name": "Шеф-пицца",
+    "description": "Пицца с копченой курицей, сыром и чесноком",
+    "price": 30000,
+    "image": "img/pizza2.png",
+    "category": "Гриль"
+  },
+  {
+    "id": 17,
+    "name": "Пицца с морепродуктами",
+    "description": "Пицца с креветками, кальмарами и мидиями",
+    "price": 35000,
+    "image": "img/pizza1.png",
+    "category": "Гриль"
+  },
+  {
+    "id": 18,
+    "name": "Курица барбекю",
+    "description": "Пицца с курицей, соусом барбекю и овощами",
+    "price": 33000,
+    "image": "img/pizza3.png",
+    "category": "Гриль"
+  },
+  {
+    "id": 19,
+    "name": "Чили-гриль",
+    "description": "Пицца с чили и грильованными овощами",
+    "price": 29000,
+    "image": "img/pizza.png",
+    "category": "Острые"
+  },
+  {
+    "id": 20,
+    "name": "Закрытая пицца с мясом",
+    "description": "Пицца с мясом внутри теста, как пирог",
+    "price": 32000,
+    "image": "img/pizza1.png",
+    "category": "Закрытые"
+  }
+]
